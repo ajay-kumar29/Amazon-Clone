@@ -39,6 +39,14 @@ It replicates the look and feel of Amazon's homepage with features like navigati
 - script.js # JavaScript functionality
 
 ---
+## 📚 What I Learned
+- Building structured layouts using HTML
+- Designing responsive UI using CSS Flexbox & Grid
+- Implementing sliders using JavaScript
+- DOM manipulation basics
+- Project folder structuring
+
+---
 
 ## Preview
 Open `index.html` in your browser to view the project.
